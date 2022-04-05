@@ -6,5 +6,12 @@
 
 * It is a simple Rock-Paper-Scissors game with a computer bot.
 
+## Demo:
 
+
+
+
+
+
+https://user-images.githubusercontent.com/53619729/161686449-853b0bcd-1d6b-488c-8ffb-fa5508da29df.mp4
 
